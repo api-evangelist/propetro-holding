@@ -1,0 +1,42 @@
+aid: propetro-holding
+name: ProPetro Holding
+description: >-
+  ProPetro Holding Corp (NYSE: PUMP) is a Midland, Texas-based oilfield
+  services company that "provides hydraulic fracturing and other complementary
+  services to leading upstream oil and gas companies engaged in the exploration
+  and production of North American unconventional oil and natural gas
+  resources," operating principally in the Permian Basin. Service lines include
+  hydraulic fracturing, the FORCE electric fleet (eFleet), Silvertip Wireline,
+  cementing, PROPWR power solutions, and Aqua Prop water management. ProPetro
+  does not publish a public developer API, OpenAPI specification, SDK, or
+  technology developer portal.
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/propetro-holding/refs/heads/main/apis.yml
+type: Index
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+tags:
+  - Energy
+  - Fortune 1000
+  - Oil and Gas
+  - Oilfield Services
+  - Hydraulic Fracturing
+  - Permian Basin
+apis: []
+common:
+  - type: Website
+    url: https://www.propetroservices.com
+  - type: InvestorRelations
+    url: https://ir.propetroservices.com
+  - type: PressReleases
+    url: https://ir.propetroservices.com/news-events/press-releases
+  - type: Careers
+    url: https://www.propetroservices.com/careers/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/propetro-services
+  - type: StockTicker
+    url: https://www.nyse.com/quote/XNYS:PUMP
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
