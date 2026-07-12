@@ -25,6 +25,8 @@ tags:
   - Permian Basin
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/propetro-holding-domain-security.yml
   - type: Website
     url: https://www.propetroservices.com
   - type: InvestorRelations
